@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React Tutorial
+
+## Description
+
+Tutorial recomended by the React Documentation for an easy introduction to React.
+
+[Tutorial](https://www.taniarascia.com/getting-started-with-react/#goals)
+
+### Published App
+
+[See here](https://carlosmertens.github.io/react-tutorial)
+
+## Tutorial Instructor
+**Tania Rascia** - _Full Stack Sofware Engineer_
+
+## Author
+
+**Carlos Mertens** - _Python/Machine Learning Developer | Mertens-Applications_
+
 ## Available Scripts
 
 In the project directory, you can run:
