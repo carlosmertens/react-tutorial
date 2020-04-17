@@ -6,18 +6,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Tutorial recomended by the React Documentation for an easy introduction to React.
 
-[Tutorial](https://www.taniarascia.com/getting-started-with-react/#goals)
+- [Tutorial](https://www.taniarascia.com/getting-started-with-react/#goals)
 
-### Published App
+#### Tutorial Instructor
 
-[See here](https://carlosmertens.github.io/react-tutorial)
+- **Tania Rascia** - _Full Stack Sofware Engineer_
 
-## Tutorial Instructor
-**Tania Rascia** - _Full Stack Sofware Engineer_
+#### App improved with React Documentation
 
-## Author
+- [Documentation](https://reactjs.org/docs/hello-world.html)
 
-**Carlos Mertens** - _Python/Machine Learning Developer | Mertens-Applications_
+#### Published App
+
+- [See here](https://carlosmertens.github.io/react-tutorial)
+
+### Author
+
+- **Carlos Mertens** - _Python/Machine Learning Developer | Mertens-Applications_
 
 ## Available Scripts
 
