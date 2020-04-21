@@ -19,7 +19,7 @@ class App extends Component {
 	}
 
 	handleSubmit = character => {
-		this.setState({ characters: [ ...this.state.characters, character ] })
+		this.setState({ characters: [...this.state.characters, character] })
 	}
 
 	render() {
@@ -28,10 +28,10 @@ class App extends Component {
 		return (
 			<div className="container">
 				<Clock />
-				<Table characterData={ characters } removeCharacter={
+				<Table characterData={characters} removeCharacter={
 					this.removeCharacter
 				} />
-				<Form handleSubmit={ this.handleSubmit } />
+				<Form handleSubmit={this.handleSubmit} />
 			</div>
 		)
 	}
